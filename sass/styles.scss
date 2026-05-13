@@ -252,7 +252,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url('../img/gallery/photo-14.jpg') center center;
+  background: url('../img/gallery/photo-16.jpg') center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -508,6 +508,26 @@ Features-stack
     z-index: 4;
     left: 50%;
   }
+}
+
+/* ==========================================================================
+.bottom-photo
+========================================================================== */
+.bottom-photo {
+  min-height: 500px;
+  background: url('../img/gallery/photo-14.jpg') center center / cover no-repeat;
+}
+
+/* ==========================================================================
+.logo-text — Anjali & Nisarga monogram in the top-left nav
+========================================================================== */
+.logo-text {
+  font-family: $accent-font;
+  font-size: 18px;
+  letter-spacing: 4px;
+  color: $txt-light;
+  text-transform: uppercase;
+  display: inline-block;
 }
 
 /* ==========================================================================
