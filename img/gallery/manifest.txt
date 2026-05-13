@@ -1,0 +1,28 @@
+Engagement photo manifest
+Generated: 2026-05-13T13:32:36Z
+Pipeline: sips -s format jpeg -s formatOptions 82 -Z 1600 (long edge cap, EXIF orientation baked in)
+Sorted by original filename alphabetical.
+
+output         original            orig dims      orig KB    out dims       out KB  
+-------------  ------------------  -------------  ---------  -------------  --------
+photo-01.jpg   IMG_0096.jpeg        1536x2048     1142        1200x1600     588     
+photo-02.jpg   IMG_0259.jpeg        1536x2048     1123        1200x1600     571     
+photo-03.jpg   IMG_0283.jpeg        1066x1600     793         1066x1600     807     
+photo-04.jpg   IMG_0284.jpeg        1600x1066     843         1600x1066     862     
+photo-05.jpg   IMG_0285.jpeg        1066x1600     674         1066x1600     685     
+photo-06.jpg   IMG_0316.jpeg        1066x1600     567         1066x1600     575     
+photo-07.jpg   IMG_0320.jpeg        1066x1600     512         1066x1600     518     
+photo-08.jpg   IMG_0321.jpeg        1066x1600     289         1066x1600     293     
+photo-09.jpg   IMG_0322.jpeg        1066x1600     616         1066x1600     624     
+photo-10.jpg   IMG_0325.jpeg        1600x1066     442         1600x1066     450     
+photo-11.jpg   IMG_0329.jpeg        1066x1600     449         1066x1600     457     
+photo-12.jpg   IMG_0339.jpeg        1066x1600     599         1066x1600     612     
+photo-13.jpg   IMG_0343.jpeg        1066x1600     221         1066x1600     225     
+photo-14.jpg   IMG_0558.heic        4032x3024     1449        1600x1200     416     
+photo-15.jpg   IMG_0587.jpeg        1536x2048     775         1200x1600     384     
+photo-16.jpg   IMG_1884.heic        3088x2320     1086        1600x1202     478     
+photo-17.jpg   IMG_2924.jpeg        3576x5364     5022        1066x1600     363     
+photo-18.jpg   IMG_2960.jpeg        4000x6000     5346        1066x1600     266     
+photo-19.jpg   IMG_3006.jpeg        3668x5502     4017        1066x1600     346     
+photo-20.jpg   IMG_5886.jpeg        1536x2048     1127        1200x1600     559     
+photo-21.jpg   IMG_5990.jpeg        1536x2048     1317        1200x1600     690     

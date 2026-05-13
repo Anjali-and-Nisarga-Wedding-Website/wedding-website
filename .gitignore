@@ -1,3 +1,11 @@
+# Image originals — never commit raw camera/phone files to the deploy
+# bundle. Originals live at _project-context/photos/originals/ outside
+# this repo; these patterns are defense-in-depth in case anything
+# raw ever slips into wedding-website/.
+**/originals/
+*.heic
+*.HEIC
+
 .idea/
 *.iml
 .DS_Store
