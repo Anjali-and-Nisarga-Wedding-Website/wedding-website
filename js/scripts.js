@@ -149,10 +149,6 @@ $(document).ready(function () {
         share_bar[i].style.display = 'inline-block';
     }
 
-    /********************** Embed youtube video *********************/
-    $('.player').YTPlayer();
-
-
     /********************** Add to Calendar **********************/
     var myCalendar = createCalendar({
         options: {

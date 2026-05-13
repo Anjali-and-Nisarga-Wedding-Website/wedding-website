@@ -359,10 +359,12 @@
     </div>-->
 </section>
 
-<section id="video-bg" class="hidden-sm hidden-xs">
-    <div id="bgndVideo" class="player"
-         data-property="{videoURL:'https://youtu.be/DlVkr_thPKI',containment:'#video-bg',autoPlay:true, mute:true, showControls:false, opacity:1}">
-    </div>
+<section id="video-bg" class="hidden-sm hidden-xs" style="background: url('img/hero-min.jpg') center/cover no-repeat;">
+    <!-- TODO: replace background URL with a real venue/city scene image.
+         img/hero-min.jpg is the template's original hero (Ram's photo)
+         being reused as a stand-in. The bg-video iframe approach was
+         dropped because jquery.mb.YTPlayer (2014) no longer works on
+         modern browsers. See _project-context/04-todos.md. -->
     <div id="video-content">
         <h5>[TBD - Venue city]</h5>
         <p>[TBD - Tagline]</p>
@@ -457,7 +459,6 @@
 <script src="js/jquery.fancybox.pack.js"></script>
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/jquery.flexslider-min.js"></script>
-<script src="js/jquery.mb.YTPlayer.min.js"></script>
 <script src="js/vendor/ouical.js"></script>
 <script src="js/scripts.min.js"></script>
 <!-- Google Analytics — commented out until we register our own GA4 property.
